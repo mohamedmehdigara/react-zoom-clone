@@ -43,12 +43,14 @@ nav {
 
 /* Hero Section Styles */
 .hero-section {
+  background-image: url("hero-bg.jpg");
   background-size: cover;
   background-position: center;
   height: 500px;
   display: flex;
   align-items: center;
-  color: #fff;
+  color: black
+  
 }
 
 .hero-content {
